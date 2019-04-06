@@ -11,3 +11,5 @@ Find different patterns in user data and problem data to find range of attempts 
 - [Ishan Kulshrestha](https://github.com/Ikulshrestha)
 
 - [Vishnu Agarwal](https://github.com/vishnuagarwal93)
+
+- [Gagan Gaur](https://github.com/gagangaur)
